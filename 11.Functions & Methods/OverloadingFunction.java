@@ -7,7 +7,7 @@ public class OverloadingFunction{
         return a+b+c;
     }
 
-    public static void main(String arhs[]){
+    public static void main(String args[]){
         System.out.println(sum(5, 10));
         
         System.out.println(sum(5, 10, 15));
